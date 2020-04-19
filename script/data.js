@@ -24,5 +24,9 @@ const data = `[
 		"name": "Dhruv Trehan",
 		"desc": " Researcher with intreset in Machine Learning and Artifical Intelligence"
 		"github": " https://github.com/DhruvTrehan"
+},{
+		"name":"Jayant Katia",
+		"desc":"Student for Life",
+		"github":"https://github.com/jayantkatia"
 },
 ]`;
