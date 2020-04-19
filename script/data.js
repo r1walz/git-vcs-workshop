@@ -25,4 +25,10 @@ const data = `[
 		"desc": "Researcher with intreset in Machine Learning and Artifical Intelligence",
 		"github": " https://github.com/DhruvTrehan"
 	}
+	{
+		"name": "Arnav Bagchi",
+		"desc": "I love food",
+		"github": " https://github.com/thewires2"
+	}
+
 ]`;
