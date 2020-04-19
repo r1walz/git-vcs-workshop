@@ -20,9 +20,14 @@ const data = `[
 		"desc": "I'm a MERN Stack Developer with interests in everything under the sun",
 		"github": "https://github.com/harshcasper"
 	},
-{
+        {
 		"name": "Dhruv Trehan",
 		"desc": " Researcher with intreset in Machine Learning and Artifical Intelligence"
 		"github": " https://github.com/DhruvTrehan"
-},
+        },
+        {
+                "name":"Himanshu",
+		"desc": "Student Developer at Crio.Do",
+		"github":"https://github.com/Himanshu70565"
+        },
 ]`;
