@@ -10,4 +10,9 @@
  * 	}
  */
 const data = `[
+	{
+		"name": "Rohit Ashiwal",
+		"desc": "System Software hobbyist with interests in the field Quantum Computing",
+		"github": "https://github.com/r1walz"
+	}
 ]`;
