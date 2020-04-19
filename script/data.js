@@ -29,5 +29,10 @@ const data = `[
 		"name": "Arnav Bagchi",
 		"desc": "I love food",
 		"github": " https://github.com/thewires2"
+	},
+	{
+		"name": "Hari Hara Sudhan S",
+		"desc": "I'm a 3rd Year Automobile Engineering student with interests in the fields of Networking and Ethical Hacking",
+		"github": "https://github.com/HariSuriya520"
 	}
 ]`;
