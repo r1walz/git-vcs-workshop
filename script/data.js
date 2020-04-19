@@ -14,5 +14,10 @@ const data = `[
 		"name": "Rohit Ashiwal",
 		"desc": "System Software hobbyist with interests in the field Quantum Computing",
 		"github": "https://github.com/r1walz"
+	},
+	{
+		"name": "Harsh Bardhan Mishra",
+		"desc": "I'm a MERN Stack Developer with interests in everything under the sun",
+		"github": "https://github.com/harshcasper"
 	}
 ]`;
