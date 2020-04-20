@@ -20,10 +20,24 @@ const data = `[
 		"desc": "I'm a MERN Stack Developer with interests in everything under the sun",
 		"github": "https://github.com/harshcasper"
 	},
-        {
-                 "name": "Himanshu",
+  {
+    "name": "Himanshu",
 		"desc": "Student Developer at Crio.do",
 		"github": "https://github.com/Himanshu70565"
-
-        },
+  },
+  {
+		"name": "Dhruv Trehan",
+		"desc": "Researcher with intreset in Machine Learning and Artifical Intelligence",
+		"github": " https://github.com/DhruvTrehan"
+	},
+	{
+		"name": "Arnav Bagchi",
+		"desc": "I love food",
+		"github": " https://github.com/thewires2"
+	},
+	{
+		"name": "Hari Hara Sudhan S",
+		"desc": "I'm a 3rd Year Automobile Engineering student with interests in the fields of Networking and Ethical Hacking",
+		"github": "https://github.com/HariSuriya520"
+	}
 ]`;
