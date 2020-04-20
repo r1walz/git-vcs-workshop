@@ -35,9 +35,9 @@ const data = `[
 		"desc": "I'm a 3rd Year Automobile Engineering student with interests in the fields of Networking and Ethical Hacking",
 		"github": "https://github.com/HariSuriya520"
 	},
-        {
-        	"name": "Himanshu",
+	{
+		"name": "Himanshu",
 		"desc": "Student Developer at Crio.do",
 		"github": "https://github.com/Himanshu70565"
-        }
+	}
 ]`;
